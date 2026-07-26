@@ -106,19 +106,7 @@ sql
 books
 quotes
 
-## ⚙️ Installation
 
-### Clone Repository
-
-bash
-git clone https://github.com/yourusername/web-scraping-pipeline.git
-cd web-scraping-pipeline
-### Install Dependencies
-bash
-pip install beautifulsoup4 requests playwright nest_asyncio pandas
-### Install Playwright Browser
-bash
-playwright install chromium
 
 ## Running the Project
 Open the notebook:
