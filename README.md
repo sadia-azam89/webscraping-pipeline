@@ -46,14 +46,13 @@ The pipeline scrapes:
 ## Project Structure
 
 text
-web_scraping_pipeline/
-│
-├── web_scraping_pipeline.ipynb
-├── books.csv
-├── quotes.csv
-├── scraped_data.db
-├── README.md
-└── requirements.txt
+1. web_scraping_pipeline/
+   a. web_scraping_pipeline.ipynb
+   b. books.csv
+   c. quotes.csv
+   d. scraped_data.db
+   e. README.md
+   f. requirements.txt
 
 ## Features
 
